@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!README.md
+!main.py
+
+!data
+!data/*.png
+!data/*.jpg
+!data/*.glsl
+!data/*.obj
