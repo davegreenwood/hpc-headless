@@ -1,0 +1,9 @@
+name: headless
+dependencies:
+- python>=3.7
+- numpy
+- Pillow
+- pip
+- pip:
+  - moderngl
+  - moderngl.ext.obj
